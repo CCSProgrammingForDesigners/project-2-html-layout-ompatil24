@@ -1,0 +1,138 @@
+html { 
+    background-color: #f4f4f4;
+}
+
+body { 
+    background-color: #f4f4f4;
+}
+
+.headerone { 
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.headerone > div {
+
+  margin: 10px;
+  padding: 20px;
+}
+
+.myHeader {
+    display: flex;
+    flex-direction: row;
+    
+    background-color: #000033;
+    padding: 30px;
+    color: #F0F0F0;
+
+    }
+
+.myHeader > div {
+
+  margin: 10px;
+  padding: 20px;
+} 
+
+
+.headertwo {
+    background-color: #660033;
+    padding: 30px;
+    font-size: 15px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+
+.headertwo > div {
+
+  margin: 10px;
+  padding: 20px;
+} 
+
+
+.headerthree { 
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: space-between;
+}
+
+.headerthree > div {
+
+  margin: 10px;
+  padding: 40px;
+}
+
+.mysecondHeader {
+    background-color: #f0f0f0;
+    padding: 20px;
+
+    }
+
+.headerfour { 
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+.headerfour > div {
+
+  margin: 10px;
+  padding: 20px;
+}
+
+
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+  background-color: #e1e0e0;
+  
+}
+
+.flex-container > div {
+
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+
+}
+    
+.flex-containertwo {
+  display: flex;
+  justify-content: space-around;
+  background-color: #ecebeb;
+  
+}
+
+.flex-containertwo > div {
+
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+
+}     
+
+.flex-containerthree {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #f9f7f7;
+  
+}
+
+.flex-containerthree > div {
+
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+
+}    
+
+
+</html>
+ 
+
